@@ -15,7 +15,7 @@ These guidelines outline our behavior expectations as members of the MNE-Tools c
 - Participating in MNE-Tools training events.
 - Representing MNE-Tools at public events or in social media (official accounts, staff accounts, personal accounts, Facebook pages).
 
-While these guidelines / code of conduct are specifically aimed at the MNE-Tools community, we recognize that it is possible for actions taken outside of our online or in person spaces to have a deep impact on community health. (For example, actions taken outside of MNE-Tools spaces that target our members may be considered grounds for removal from MNE-Tools spaces.) This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
+While these guidelines / code of conduct are specifically aimed at the MNE-Tools community, we recognize that it is possible for actions taken outside of our online or in person spaces to have a deep impact on community health. For example, actions taken outside of MNE-Tools spaces that target our members may be considered grounds for removal from MNE-Tools spaces. This is an active topic in the diversity and inclusion realm. We anticipate wide-ranging discussions among our communities about appropriate boundaries.
 
 
 ## Expected Behavior
