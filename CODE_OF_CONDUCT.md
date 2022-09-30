@@ -127,7 +127,7 @@ Everyone is encouraged to ask questions about these guidelines. One way to ask i
 
 ## Modifications to these Guidelines
 
-These guidelines may be amended from time to time. Your agreement to comply with the guidelines will be deemed agreement to any changes to it.
+These guidelines may be amended from time to time. Continued engagement with MNE-Tools projects implies your agreement to the current state of these guidelines in force at the time.
 Changes to these guidelines are logged [here](https://github.com/mne-tools/.github/commits/main/CODE_OF_CONDUCT.md).
 
 
