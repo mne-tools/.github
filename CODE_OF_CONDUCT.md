@@ -10,7 +10,7 @@ These guidelines aim to support a community where all people should feel safe to
 These guidelines outline our behavior expectations as members of the MNE-Tools community in all MNE-related activities, both offline and online. Your participation is contingent upon following these guidelines in all MNE-related activities, including but not limited to:
 
 - Participating in MNE-Tools code repositories (opening, reviewing, or commenting on issues or pull requests).
-- Participating in MNE-related forums, mailing lists, wikis, websites, chat channels, bugs, group or person-to-person meetings, and related correspondence.
+- Participating in MNE-related forums, mailing lists, wikis, websites, chat channels, group or person-to-person meetings, and related correspondence.
 - Working with other MNE-Tools contributors and community participants virtually or co-located.
 - Participating in MNE-Tools training events.
 - Representing MNE-Tools at public events or in social media (official accounts, staff accounts, personal accounts, Facebook pages).
