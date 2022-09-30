@@ -110,9 +110,12 @@ If you feel you have been unfairly accused of violating these guidelines, please
 ## Enforcement Responsibilities
 
 Reports of violation of these guidelines are triaged by the Community Participation Guidelines Response Leads.
+Our current "Community Participation Guidelines Response Leads" are listed `here<https://mne.tools/dev/overview/people.html#governance-cpgrl>`__.
 After receiving a report, they will review and determine the next steps.
-They will involve other colleagues or outside specialists (such as legal counsel), as needed to appropriately address each situation.
+They will involve other colleagues or outside specialists (such as legal counsel) as needed to appropriately address each situation.
 
+Our "community leaders" are members of the MNE-Python steering council, plus anyone with commit rights on an MNE-Tools repository.
+Our community leaders will coordinate with the Community Participation Guideline Response Leads as necessary in resolving any reports.
 Our community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
 Our community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to these Guidelines, and will communicate reasons for moderation decisions when appropriate.
 
