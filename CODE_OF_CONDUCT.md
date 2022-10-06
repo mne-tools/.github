@@ -120,6 +120,27 @@ Our community leaders are responsible for clarifying and enforcing our standards
 Our community leaders have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned to these Guidelines, and will communicate reasons for moderation decisions when appropriate.
 
 
+## Enforcement Guidelines
+
+Community leaders will follow these "Community Impact Guidelines" in determining the consequences for any action they deem in violation of this Code of Conduct. These are listed in order of increasing severity:
+
+1. An incident of language or behavior deemed unprofessional or unwelcome in the community.
+
+   ** Consequence:** *Correction.* A private, written warning from community leaders, providing clarity around the nature of the violation and an explanation of why the behavior was inappropriate. A public apology may be requested.
+
+2. A violation of these guidelines (see "Behavior that will not be tolerated", above), either as a single incident or a series of actions.
+
+   ** Consequence:** *Warning.* No interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, for a specified period of time. This includes avoiding interactions in community spaces as well as external channels like social media. Violating these terms may lead to a temporary or permanent ban.
+
+3. A serious violation of these guidelines, including sustained inappropriate behavior.
+
+   ** Consequence:** *Temporary Ban.* A temporary ban from any sort of interaction or public communication with the community for a specified period of time. No public or private interaction with the people involved, including unsolicited interaction with those enforcing the Code of Conduct, is allowed during this period. Violating these terms may lead to a permanent ban.
+
+4. A pattern of violation of community standards, including sustained inappropriate behavior, repeated harassment of an individual, or aggression toward or disparagement of classes of individuals.
+
+   ** Consequence:** *Permanent Ban.* A permanent ban from any sort of public interaction within the community.
+
+
 ## Asking Questions
 
 Everyone is encouraged to ask questions about these guidelines. One way to ask is to [open an issue here](https://github.com/mne-tools/.github/issues/new/choose).
