@@ -110,7 +110,7 @@ If you feel you have been unfairly accused of violating these guidelines, please
 ## Enforcement Responsibilities
 
 Reports of violation of these guidelines are triaged by the Community Participation Guidelines Response Leads.
-Our current "Community Participation Guidelines Response Leads" are listed `here<https://mne.tools/dev/overview/people.html#governance-cpgrl>`__.
+Our current "Community Participation Guidelines Response Leads" are listed [here](https://mne.tools/dev/overview/people.html#governance-cpgrl).
 After receiving a report, they will review and determine the next steps.
 They will involve other colleagues or outside specialists (such as legal counsel) as needed to appropriately address each situation.
 
